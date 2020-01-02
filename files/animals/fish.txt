@@ -1,5 +1,3 @@
-fish
-
 Types of Fish
 Tilapia
 Tuna

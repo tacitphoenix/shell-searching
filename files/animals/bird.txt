@@ -1,5 +1,3 @@
-bird
-
 Types of Birds
 Eagle
 Dove
