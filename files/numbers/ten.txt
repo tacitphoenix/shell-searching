@@ -1,0 +1,3 @@
+10
+10 is divisible 2 and 5
+10 is an even number

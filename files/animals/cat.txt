@@ -1,0 +1,6 @@
+cat
+
+Types of Cats
+Siamese
+Persian
+Maine Coon

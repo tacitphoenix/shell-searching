@@ -1,0 +1,3 @@
+9
+9 is divisible by 3
+9 is an odd number
