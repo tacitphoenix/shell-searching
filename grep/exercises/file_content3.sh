@@ -1,0 +1,1 @@
+grep -ir primary ../../files
