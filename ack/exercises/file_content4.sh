@@ -1,0 +1,1 @@
+ack -i red ../../files

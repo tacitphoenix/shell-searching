@@ -1,0 +1,1 @@
+ack -g zero ../../files
